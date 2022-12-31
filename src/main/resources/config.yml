@@ -1,0 +1,14 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenUtils"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji do komendy:
+no_permission: "&4Blad&8: &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz jest offline:
+offline_player: "&4Blad&8: &cTego gracza nie ma na serwerze!"
+
+# Tutaj mozna ustawic wiadomosc, jesli podano za duzo argumentow przy komendzie:
+wrong_args: "&4Blad&8: &cZa duza ilosc argumentow!"
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true

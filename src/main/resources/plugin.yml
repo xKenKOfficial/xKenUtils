@@ -1,0 +1,9 @@
+name: xKenUtils
+version: '${project.version}'
+api-version: 1.13
+main: com.github.xKenKOfficial.Utils.Spigot.Basic.Main
+prefix: xKenUtils
+author: xKenKOfficial
+authors: [ xKenKOfficial ]
+description: BungeeCord/Spigot Utils dla serwerow Minecraft.
+website: https://discord.gg/2HDuZrEFTg
